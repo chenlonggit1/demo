@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "5eda3313-dc03-4b8f-864c-c9c92129c475",
+  "rawTextureUuid": "2a006e8e-0a09-40f8-82e6-0d73e623e879",
+  "size": {
+    "width": 256,
+    "height": 256
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "kaiShiYingYe.png": {
+      "ver": "1.0.4",
+      "uuid": "571b0a0b-215f-4734-93b1-c2c97ff116a3",
+      "rawTextureUuid": "2a006e8e-0a09-40f8-82e6-0d73e623e879",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 192,
+      "height": 90,
+      "rawWidth": 192,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

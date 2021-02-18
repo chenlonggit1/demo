@@ -1,0 +1,248 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_hand_slide_l",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "hand/tex_2": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            }
+          ],
+          "color": [
+            {
+              "frame": 0.65,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.65,
+              "value": [
+                -7,
+                115,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.65,
+              "value": 6.408
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.65,
+              "value": [
+                334.595,
+                -5.172,
+                0
+              ],
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.65,
+              "value": -12,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "hand/img_gesture": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+              }
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.7,
+                "y": 1.7
+              }
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.7,
+                "y": 1.7
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.2,
+              "value": [
+                27,
+                -44,
+                0
+              ]
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": [
+                -11.952,
+                -43.032,
+                0
+              ]
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                -11.952,
+                -43.032,
+                0
+              ]
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": [
+                27,
+                -44,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

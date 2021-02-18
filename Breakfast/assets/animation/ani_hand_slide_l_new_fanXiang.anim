@@ -1,0 +1,200 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_hand_slide_l_new_fanXiang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "hand/tex_2": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.65,
+              "value": [
+                -184.717,
+                57.203,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.65,
+              "value": 30
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.65,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ],
+          "color": [
+            {
+              "frame": 0.65,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.65,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                730,
+                30,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": -12,
+              "curve": "cubicOut"
+            }
+          ]
+        }
+      },
+      "hand/img_gesture": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.6333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.85,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.7,
+                "y": 1.7
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 1.85,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.6
+              }
+            },
+            {
+              "frame": 2.1166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.7,
+                "y": 1.7
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                27,
+                -44,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -11.952,
+                -43.032,
+                0
+              ]
+            },
+            {
+              "frame": 1.85,
+              "value": [
+                -11.952,
+                -43.032,
+                0
+              ]
+            },
+            {
+              "frame": 2.1166666666666667,
+              "value": [
+                27,
+                -44,
+                0
+              ]
+            }
+          ],
+          "color": []
+        }
+      }
+    }
+  },
+  "events": []
+}
