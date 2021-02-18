@@ -1,0 +1,146 @@
+
+dadishu2.png
+size: 997,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chui11
+  rotate: true
+  xy: 734, 200
+  size: 272, 163
+  orig: 272, 163
+  offset: 0, 0
+  index: -1
+chui22
+  rotate: false
+  xy: 625, 3
+  size: 107, 469
+  orig: 107, 469
+  offset: 0, 0
+  index: -1
+dong
+  rotate: false
+  xy: 515, 474
+  size: 469, 223
+  orig: 469, 223
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 931, 36
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 561, 2
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+g01
+  rotate: false
+  xy: 800, 6
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+g02
+  rotate: true
+  xy: 868, 41
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+g03
+  rotate: true
+  xy: 498, 7
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: false
+  xy: 2, 449
+  size: 511, 248
+  orig: 511, 248
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 2, 33
+  size: 310, 414
+  orig: 310, 414
+  offset: 0, 0
+  index: -1
+touming
+  rotate: false
+  xy: 314, 138
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+yangj
+  rotate: true
+  xy: 734, 21
+  size: 177, 64
+  orig: 177, 64
+  offset: 0, 0
+  index: -1
+you01
+  rotate: false
+  xy: 899, 327
+  size: 66, 145
+  orig: 66, 145
+  offset: 0, 0
+  index: -1
+you02
+  rotate: true
+  xy: 899, 223
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 314, 10
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 361, 10
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+yuny
+  rotate: false
+  xy: 314, 54
+  size: 182, 82
+  orig: 182, 82
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 498, 62
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+zuo01
+  rotate: false
+  xy: 800, 53
+  size: 66, 145
+  orig: 66, 145
+  offset: 0, 0
+  index: -1
+zuo02
+  rotate: true
+  xy: 868, 96
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
