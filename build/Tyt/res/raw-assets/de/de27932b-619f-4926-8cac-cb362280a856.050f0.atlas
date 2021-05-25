@@ -1,0 +1,76 @@
+
+xiong001.png
+size: 353,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eyebrow
+  rotate: false
+  xy: 312, 187
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 311, 299
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 170, 126
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+R_eyebrow
+  rotate: false
+  xy: 312, 142
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 311, 246
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 162, 22
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1
+belly
+  rotate: false
+  xy: 2, 163
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 312, 105
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 170, 234
+  size: 139, 117
+  orig: 139, 117
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 22
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
